@@ -1,0 +1,7 @@
+> java -jar markov-menu.jar --INPUT
+
+where --INPUT is the properties filename, ie.
+
+> java -jar markov-menu.jar sample
+
+which will parse the sample.properties and output gnuplot files, such as sampleOut.dat, sampleOut.gpl and sampleOut.png.
